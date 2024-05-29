@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/koba-software/static/css/main.e6c13ad2.css",
+    "main.js": "/koba-software/static/js/main.f20b38ff.js",
+    "static/js/453.9c4c9162.chunk.js": "/koba-software/static/js/453.9c4c9162.chunk.js",
+    "index.html": "/koba-software/index.html",
+    "main.e6c13ad2.css.map": "/koba-software/static/css/main.e6c13ad2.css.map",
+    "main.f20b38ff.js.map": "/koba-software/static/js/main.f20b38ff.js.map",
+    "453.9c4c9162.chunk.js.map": "/koba-software/static/js/453.9c4c9162.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f20b38ff.js"
+  ]
+}
